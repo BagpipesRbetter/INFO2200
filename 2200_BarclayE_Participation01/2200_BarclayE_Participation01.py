@@ -1,17 +1,34 @@
 #!/usr/bin/env python3
-import time
-import random
 
-#welcome messages
-welcome_messages = [
-    "🎉 Welcome to Evan's State Capitol Lookup App! 🎉",
-    "🏛️ Ready to test your state capitol knowledge? Let's go! 🏛️",
-    "🌟 Let's explore the US state capitols together! 🌟"
-]
+def load_capitals(path="Capitals.txt"):
+    capitals = {}
+    with open(path, "r") as file:
+        next(file)
+        for line in file:
+            parts = [p.strip() for p in line.split(",", 1)]
+            if len(parts) == 2:
+                capitals[parts[0].lower()] = parts[1]
+    return capitals
 
-#main
-msg = random.choice(welcome_messages)
-for char in msg:
-    print(char, end='', flush=True)
-    time.sleep(0.03)
-print("\n")
+def main():
+    capitals = load_capitals()
+    if not capitals:
+        return
+    print("Welcome to Evan's State Capitals Lookup App\n")
+    while True:
+        state = input("Enter a state (or 'x' to exit): ").strip()
+        if not state:
+            continue
+        if state.lower() == "x":
+            break
+        capital = capitals.get(state.lower())
+        if capital:
+            print(f"The capital of {state.title()} is {capital}.\n")
+        else:
+            print(f"Could not find '{state}' in the database\n")
+    print("Goodbye!")
+
+if __name__ == "__main__":
+    main()
+
+
