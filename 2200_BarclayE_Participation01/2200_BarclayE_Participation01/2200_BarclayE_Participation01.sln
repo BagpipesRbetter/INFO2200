@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2200_BarclayE_Participation01", "2200_BarclayE_Participation01\2200_BarclayE_Participation01.csproj", "{E4A06C3C-E606-4082-85B0-8064B13BFF98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A06C3C-E606-4082-85B0-8064B13BFF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A06C3C-E606-4082-85B0-8064B13BFF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A06C3C-E606-4082-85B0-8064B13BFF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A06C3C-E606-4082-85B0-8064B13BFF98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D931AFE-613B-4682-90F5-71FE4DBD1013}
+	EndGlobalSection
+EndGlobal
