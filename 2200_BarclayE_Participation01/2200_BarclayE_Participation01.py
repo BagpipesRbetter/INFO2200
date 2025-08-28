@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-def load_capitals(path="Capitals.txt"):
+def load_capitals(path="statecaps.txt"):
     capitals = {}
     with open(path, "r") as file:
         next(file)
@@ -30,5 +30,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+ 
 
