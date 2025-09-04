@@ -209,70 +209,45 @@ def find_state_list_links(index_soup):
     return sorted(links)
 
 def main():
-    out_path = os.path.join(os.path.dirname(__file__), "collegetowns.csv")
-    seen_colleges = {}  # key: college.lower() -> (town, town_url, college_url)
-    written = 0
+    out_path = os.path.join(os.path.dirname(__file__), "colleges_us.txt")
+    seen = set()
+    results = []
 
-    # 1) Primary: parse the college towns page (higher-quality town mapping)
-    try:
-        print("Fetching college towns page...")
-        soup = fetch_soup(BASE + "/wiki/List_of_college_towns")
-        rows = parse_collegetowns_page(soup)
-        for town_names, college_names, town_urls, college_urls in rows:
-            for col in [c.strip() for c in college_names.split(";") if c.strip()]:
-                key = col.lower()
-                # store first seen mapping
-                if key not in seen_colleges:
-                    # pick the first town name (may be multiple separated by ';')
-                    town = town_names.split(";")[0].strip()
-                    turl = town_urls.split(";")[0].strip() if town_urls else ""
-                    curl = ""  # college_links may contain multiple; we don't try to map exactly here
-                    if college_urls:
-                        curl = college_urls.split(";")[0].strip()
-                    seen_colleges[key] = (town, turl, curl)
-        print(f"Collected {len(seen_colleges)} colleges from college towns page.")
-    except Exception as e:
-        print("Failed to fetch/parse college towns page:", e)
-
-    # 2) Secondary: follow the Lists_of_American_universities_and_colleges index
     try:
         print("Fetching lists index page...")
         index_soup = fetch_soup(BASE + "/wiki/Lists_of_American_universities_and_colleges")
         state_links = find_state_list_links(index_soup)
         print(f"Found {len(state_links)} candidate state/region list links.")
-        # limit maximum to avoid long crawl; remove/comment to fetch all
-        # state_links = state_links[:60]
+        # iterate through state/region pages (these are US lists)
         for i, link in enumerate(state_links, 1):
             try:
                 print(f"[{i}/{len(state_links)}] Fetching {link}")
                 s = fetch_soup(link)
                 pairs = parse_state_page(s, page_title=link)
-                # attach college and optionally college link if present
                 for col, town in pairs:
-                    key = col.lower()
-                    if key in seen_colleges and seen_colleges[key][0]:
-                        continue  # prefer existing mapping
-                    # try to find a college anchor in the page to capture its URL
-                    curl = ""
-                    a = s.find("a", string=re.compile(r"^" + re.escape(col) + r"$", re.I))
-                    if a and a.get("href"):
-                        curl = urljoin(BASE, a["href"])
-                    seen_colleges[key] = (town, "", curl)
-                time.sleep(0.5)  # polite pause
+                    key = (col or "").strip().lower()
+                    if not key or key in seen:
+                        continue
+                    seen.add(key)
+                    # format in title case as requested
+                    college_title = (col or "").title().strip()
+                    town_title = (town or "").title().strip()
+                    if town_title:
+                        results.append(f"{college_title}, {town_title}")
+                    else:
+                        results.append(f"{college_title}")
+                time.sleep(0.5)
             except Exception as e:
                 print("  error parsing", link, e)
     except Exception as e:
         print("Failed to fetch/parse lists index page:", e)
 
-    # 3) Write output CSV
-    with open(out_path, "w", encoding="utf-8", newline="") as f:
-        writer = csv.writer(f, quoting=csv.QUOTE_ALL)
-        writer.writerow(["Town(s)", "College(s)", "Town Link(s)", "College Link(s)"])
-        for college_lower, (town, turl, curl) in sorted(seen_colleges.items()):
-            writer.writerow([town or "", college_lower.title(), turl or "", curl or ""])
-            written += 1
+    # write plain text file with one entry per line in the requested format
+    with open(out_path, "w", encoding="utf-8") as f:
+        for line in sorted(results):
+            f.write(line + "\n")
 
-    print(f"Wrote {written} rows to {out_path}")
+    print(f"Wrote {len(results)} lines to {out_path}")
 
 if __name__ == "__main__":
     main()
