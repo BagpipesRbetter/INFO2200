@@ -1,0 +1,8 @@
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assingment01\2200_BarclayE_Assingment01_C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assingment01\2200_BarclayE_Assingment01_C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assingment01\2200_BarclayE_Assingment01_C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assingment01\2200_BarclayE_Assingment01_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assingment01\2200_BarclayE_Assingment01_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assingment01\2200_BarclayE_Assingment01_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assingment01\2200_BarclayE_Assingment01_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assingment01\2200_BarclayE_Assingment01_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
