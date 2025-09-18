@@ -4,12 +4,21 @@ using System.Globalization;
 using System.IO;
 using System.Linq;
 
+/*
+Name: Evan Barclay
+Class: INFO 2200
+Section: M01
+Professor: Sharp
+Date: 09/09/2025
+Participation or Assignment #: assingment 01
+By submitting this assignment, I declare that the source code contained in this assignment was written solely by me, unless specifically provided in the assignment. I attest that no part of this assignment, in whole or in part, was directly created by Generative AI, unless explicitly stated in the assignment instructions, nor obtained from a subscription service. I understand that copying any source code, in whole or in part, unless specifically provided in the assignment, constitutes cheating, and that I will receive a zero on this project if I am found in violation of this policy.
+*/
 
 namespace _2200_BarclayE_Assingment01
 {
     internal class Program
     {
-        
+
 
         static void Main(string[] args)
         {
