@@ -73,6 +73,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Phone.cs" />
     <Compile Include="PhoneDetailsWindow.xaml.cs">
       <DependentUpon>PhoneDetailsWindow.xaml</DependentUpon>
     </Compile>
