@@ -24,6 +24,15 @@ namespace WpfApp2
             InitializeComponent();
         }
 
+        public void UpdateGUI(Phone phone)
+        {
+            lblMake.Content = phone.make;
+            lblModel.Content = phone.model;
+            lblDisplay.Content = phone.display;
+            lblStorage.Content = phone.storage;
+            lblPrice.Content = phone.price.ToString("c");
+        }
+
         private void btnClose_Click(object sender, RoutedEventArgs e)
         {
             Close();
