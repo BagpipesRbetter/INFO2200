@@ -14,9 +14,6 @@ using System.Windows.Shapes;
 
 namespace WpfApp2
 {
-    /// <summary>
-    /// Interaction logic for PhoneDetailsWindow.xaml
-    /// </summary>
     public partial class PhoneDetailsWindow : Window
     {
         public PhoneDetailsWindow()

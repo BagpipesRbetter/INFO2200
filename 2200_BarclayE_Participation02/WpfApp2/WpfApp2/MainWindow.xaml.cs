@@ -16,14 +16,10 @@ using System.Windows.Shapes;
 
 namespace WpfApp2
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    /// 
-
+   
     public partial class MainWindow : Window
     {
-        // create a Dictionary where the key is a string and the value is an object of the Phone class
+        
 
         Dictionary<string, Phone> phoneDict = new Dictionary<string, Phone>();
 
@@ -31,32 +27,27 @@ namespace WpfApp2
         {
             InitializeComponent();
 
-            // call to the method
-
             LoadPhoneDetails();
         }
 
-        /// <summary>
-        /// Explain the LoadPhoneDetails method
-        /// </summary>
         private void LoadPhoneDetails()
         {
             StreamReader inputFile;
-            //const string PHONES_FILE = "phones.txt"; // not required
+            
             string[] tempPhone;
-            //
+           
             try
-            {   //
+            {   
                 inputFile = File.OpenText("phones.txt");
-                // inputFile = File.OpenText(PHONES_FILE); not required
+                 
                 inputFile.ReadLine();
                 while (!inputFile.EndOfStream)
                 {
-                    //
+                    
                     tempPhone = inputFile.ReadLine().Split(',');
-                    //
+                    
                     cboPhones.Items.Add(tempPhone[0]);
-                    //
+                    
                     phoneDict.Add(tempPhone[0], new Phone(tempPhone));
                 }
                 inputFile.Close();
@@ -67,11 +58,7 @@ namespace WpfApp2
             }
         }
 
-        /// <summary>
-        /// Explain the btnPhoneDetails Click Event handler
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+     
         private void btnPhoneDetails_Click(object sender, RoutedEventArgs e)
         {
             PhoneDetailsWindow pdw = new PhoneDetailsWindow();
@@ -82,7 +69,7 @@ namespace WpfApp2
 
             if (phoneDict.TryGetValue(key, out phone))
             {
-                //pdw.lblDisplay.Content = phone.DisplaySize; // not required
+               
 
                 pdw.UpdateGUI(phone);
                 pdw.Show();

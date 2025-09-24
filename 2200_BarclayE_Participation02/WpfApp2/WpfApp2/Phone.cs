@@ -8,7 +8,6 @@ namespace WpfApp2
 {
     public class Phone
     {
-        // Constructor that takes an array of strings to initialize the phone properties
         public Phone(string[] phone)
         {
             make = phone[0];
@@ -17,7 +16,7 @@ namespace WpfApp2
             storage = phone[3];
             price = decimal.Parse(phone[4]);
         }
-        // Properties of the Phone class
+        
         public string make { get; set; }
         public string model { get; set; }
         public string display { get; set; }
