@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\
+C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Release\
 _2200_BarclayE_Assignment02
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\App.xaml
 1219584333
 
@@ -16,5 +16,5 @@ C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_Barclay
 13-1310406943
 MainWindow.xaml;
 
-False
+True
 
