@@ -33,5 +33,10 @@ namespace _2200_BarclayE_Assignment02
         {
             InitializeComponent();
         }
+
+        private void cbFoods_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

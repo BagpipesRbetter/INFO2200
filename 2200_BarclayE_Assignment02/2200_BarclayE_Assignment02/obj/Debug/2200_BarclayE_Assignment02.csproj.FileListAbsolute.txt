@@ -1,0 +1,5 @@
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.csproj.AssemblyReference.cache
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\MainWindow.g.cs
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\App.g.cs
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02_MarkupCompile.cache
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02_MarkupCompile.lref

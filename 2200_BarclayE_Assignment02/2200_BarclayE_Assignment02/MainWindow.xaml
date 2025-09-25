@@ -5,8 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_2200_BarclayE_Assignment02"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="300" Width="490">
     <Grid>
-        
+        <GroupBox
+            Height="150"
+            Width="440"
+            >
+            <ComboBox
+                x:Name="cbFoods"
+                Width="420"
+                Height="50"
+                SelectionChanged="cbFoods_SelectionChanged"
+                FontSize="30"
+                />
+        </GroupBox>
     </Grid>
 </Window>
