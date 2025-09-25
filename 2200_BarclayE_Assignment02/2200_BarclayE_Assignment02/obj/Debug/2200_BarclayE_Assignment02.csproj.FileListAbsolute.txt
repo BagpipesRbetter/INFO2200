@@ -18,3 +18,6 @@ C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_Barclay
 C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.csproj.CoreCompileInputs.cache
 C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.exe
 C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.pdb
+C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.exe.config
+C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\NutritionDetailsWindow.g.cs
+C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\NutritionDetailsWindow.baml

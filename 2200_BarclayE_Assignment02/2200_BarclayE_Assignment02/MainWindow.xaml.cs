@@ -29,11 +29,24 @@ namespace _2200_BarclayE_Assignment02
     /// </summary>
     public partial class MainWindow : Window
     {
+        private readonly List<food> _foods = new List<food>();
         public MainWindow()
         {
             InitializeComponent();
+            LoadFoods();
         }
-
+        private void LoadFoods()
+        {
+            string path = "nutrition.txt";
+            var lines = System.IO.File.ReadAllLines(path);
+            for (int i = 1; i < lines.Length; i++)
+            {
+                var line = lines[i];
+                if (string.IsNullOrWhiteSpace(line)) continue;
+                var row = line.Split('\t').Select(s => s.Trim()).ToArray();
+                _foods.Add(new food(row);
+            }
+        }
         private void cbFoods_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
