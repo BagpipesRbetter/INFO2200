@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\",
+  "WorkspaceRootPath": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|solutionrelative:2200_BarclayE_Assignment02\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_barclaye_assignment02\\nutritiondetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|solutionrelative:2200_barclaye_assignment02\\nutritiondetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_assignment02\\2200_barclaye_assignment02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|solutionrelative:2200_barclaye_assignment02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_assignment02\\2200_barclaye_assignment02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|solutionrelative:2200_barclaye_assignment02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_assignment02\\2200_barclaye_assignment02\\nutritiondetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|solutionrelative:2200_barclaye_assignment02\\nutritiondetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|solutionrelative:2200_BarclayE_Assignment02\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_assignment02\\2200_barclaye_assignment02\\nutritiondetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|solutionrelative:2200_barclaye_assignment02\\nutritiondetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_barclaye_assignment02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4A74D65-4CC1-46D0-AE43-BD17A8C9021C}|2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02.csproj|solutionrelative:2200_barclaye_assignment02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "NutritionDetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml.cs",
+              "RelativeToolTip": "2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:52:40.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "NutritionDetailsWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml",
               "RelativeDocumentMoniker": "2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml",
               "RelativeToolTip": "2200_BarclayE_Assignment02\\NutritionDetailsWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-25T20:09:49.443Z",
@@ -42,24 +63,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "food.cs",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\food.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\food.cs",
               "RelativeDocumentMoniker": "2200_BarclayE_Assignment02\\food.cs",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\food.cs",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\food.cs",
               "RelativeToolTip": "2200_BarclayE_Assignment02\\food.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T18:06:36.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\MainWindow.xaml",
               "RelativeDocumentMoniker": "2200_BarclayE_Assignment02\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\MainWindow.xaml",
               "RelativeToolTip": "2200_BarclayE_Assignment02\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-25T17:43:29.16Z",
@@ -67,20 +88,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "2200_BarclayE_Assignment02\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assignment02\\2200_BarclayE_Assignment02\\MainWindow.xaml.cs",
               "RelativeToolTip": "2200_BarclayE_Assignment02\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAADAzMzMzMwnwDYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T17:43:28.056Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }

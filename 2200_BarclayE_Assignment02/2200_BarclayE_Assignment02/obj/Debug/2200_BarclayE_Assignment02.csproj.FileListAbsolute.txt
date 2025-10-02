@@ -21,3 +21,16 @@ C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_Barclay
 C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.exe.config
 C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\NutritionDetailsWindow.g.cs
 C:\Users\evanj\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\NutritionDetailsWindow.baml
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.exe.config
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\NutritionDetailsWindow.g.cs
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.exe
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.pdb
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\bin\Debug\2200_BarclayE_Assignment02.exe.config
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\bin\Debug\2200_BarclayE_Assignment02.exe
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\bin\Debug\2200_BarclayE_Assignment02.pdb
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\MainWindow.baml
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\NutritionDetailsWindow.baml
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.g.resources
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\_2200_BarclayE_Assignment02.Properties.Resources.resources
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.csproj.GenerateResource.cache
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Assignment02\2200_BarclayE_Assignment02\obj\Debug\2200_BarclayE_Assignment02.csproj.CoreCompileInputs.cache

@@ -44,11 +44,15 @@ namespace _2200_BarclayE_Assignment02
                 var line = lines[i];
                 if (string.IsNullOrWhiteSpace(line)) continue;
                 var row = line.Split('\t').Select(s => s.Trim()).ToArray();
-                _foods.Add(new food(row);
+                _foods.Add(new food(row));
+                cbFoods.Items.Add(_foods[i - 1].FoodName);
             }
         }
         private void cbFoods_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            if (cbFoods.SelectedIndex >= 0) return;
+            var selectedFood = _foods[cbFoods.SelectedIndex];
+            .Content = $"{selectedFood.Calcium} mg";
 
         }
     }
