@@ -9,18 +9,11 @@ By submitting this assignment, I declare that the source code contained in this 
 */
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+using System.IO;
+
+// This project can be found @ "https://github.com/BagpipesRbetter/INFO2200/tree/main/2200_BarclayE_Assignment02"
 
 namespace _2200_BarclayE_Assignment02
 {
@@ -29,31 +22,58 @@ namespace _2200_BarclayE_Assignment02
     /// </summary>
     public partial class MainWindow : Window
     {
-        private readonly List<food> _foods = new List<food>();
+        private const string FILE = "nutrition.txt";
+
+        private Dictionary<string, food> _food;
+
         public MainWindow()
         {
+            _food = new Dictionary<string, food>(StringComparer.OrdinalIgnoreCase);
             InitializeComponent();
-            LoadFoods();
+            LoadFoodsFromFile();
         }
-        private void LoadFoods()
+
+        private void LoadFoodsFromFile()
         {
-            string path = "nutrition.txt";
-            var lines = System.IO.File.ReadAllLines(path);
-            for (int i = 1; i < lines.Length; i++)
+            StreamReader inputFile = null;
+            inputFile = File.OpenText(FILE);
+            inputFile.ReadLine();
+
+            while (!inputFile.EndOfStream)
             {
-                var line = lines[i];
-                if (string.IsNullOrWhiteSpace(line)) continue;
-                var row = line.Split('\t').Select(s => s.Trim()).ToArray();
-                _foods.Add(new food(row));
-                cbFoods.Items.Add(_foods[i - 1].FoodName);
+                string line = inputFile.ReadLine();
+                if (string.IsNullOrWhiteSpace(line))
+                {
+                    continue;
+                }
+
+                string[] parts = line.Split('\t');
+                if (parts.Length < 28) 
+                {
+                    continue;
+                }
+
+                var f = new food(parts);
+                _food[f.FoodName] = f;
+                cbFoods.Items.Add(f.FoodName);
             }
         }
+
         private void cbFoods_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            if (cbFoods.SelectedIndex >= 0) return;
-            var selectedFood = _foods[cbFoods.SelectedIndex];
-            .Content = $"{selectedFood.Calcium} mg";
+            var selectedName = cbFoods.SelectedItem as string;
+            if (string.IsNullOrWhiteSpace(selectedName))
+            { 
+                return; 
+            }
 
+            if (_food.TryGetValue(selectedName, out var selectedFood))
+            {
+                var details = new NutritionDetailsWindow();
+                details.SetNutritionalValues(selectedFood);
+                details.Owner = this;
+                details.ShowDialog();
+            }
         }
     }
 }

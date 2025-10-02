@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace _2200_BarclayE_Assignment02
 {
-    internal class food
+    public class food
     {
-        // constructor for recieving and array of strings
         public food(string[] foodArray)
         {
             FoodName = foodArray[0];
@@ -28,20 +27,20 @@ namespace _2200_BarclayE_Assignment02
             PolyunsaturatedFat = double.Parse(foodArray[13]);
             Iron = double.Parse(foodArray[14]);
             Magnesium = double.Parse(foodArray[15]);
-            Sodium = double.Parse(foodArray[15]);
-            Phosphorus = double.Parse(foodArray[16]);
-            CaPRation = double.Parse(foodArray[17]);
-            Potassium = double.Parse(foodArray[18]);
-            Zinc = double.Parse(foodArray[19]);
-            Niacin = double.Parse(foodArray[20]);
-            Thiamin = double.Parse(foodArray[21]);
-            Riboflavin = double.Parse(foodArray[22]);
-            VitaminA = double.Parse(foodArray[23]);
-            VitaminB6 = double.Parse(foodArray[24]);
-            VitaminC = double.Parse(foodArray[25]);
-            FoodType = foodArray[26];
-
+            Sodium = double.Parse(foodArray[16]);
+            Phosphorus = double.Parse(foodArray[17]);
+            CaPRation = double.Parse(foodArray[18]);
+            Potassium = double.Parse(foodArray[19]);
+            Zinc = double.Parse(foodArray[20]);
+            Niacin = double.Parse(foodArray[21]);
+            Thiamin = double.Parse(foodArray[22]);
+            Riboflavin = double.Parse(foodArray[23]);
+            VitaminA = double.Parse(foodArray[24]);
+            VitaminB6 = double.Parse(foodArray[25]);
+            VitaminC = double.Parse(foodArray[26]);
+            FoodType = foodArray[27];
         }
+
         public string FoodName { get; set; }
         public double Calcium { get; set; }
         public string ServingSize { get; set; }
@@ -70,7 +69,5 @@ namespace _2200_BarclayE_Assignment02
         public double VitaminB6 { get; set; }
         public double VitaminC { get; set; }
         public string FoodType { get; set; }
-
     }
-
 }

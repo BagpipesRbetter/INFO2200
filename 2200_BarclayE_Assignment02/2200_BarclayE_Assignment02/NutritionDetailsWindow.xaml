@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_2200_BarclayE_Assignment02"
         mc:Ignorable="d"
-        Title="NutritionDetailsWindow" Height="550" Width="560">
-    <Grid>
+        Title="NutritionDetailsWindow" Height="570" Width="570">
+
         <StackPanel>
             <GroupBox Height="290"
 Width="550"
@@ -364,5 +364,5 @@ VerticalAlignment="Center"/>
                 </Grid>
             </GroupBox>
         </StackPanel>
-    </Grid>
+
 </Window>
