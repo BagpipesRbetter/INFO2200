@@ -8,12 +8,13 @@ namespace _2200_BarclayE_Participation03
 {
     public class Flower : Plant
     {
-        public Flower( string env, string typ, string nm ) : base( env, typ, nm ) {
-            
+        public Flower(string env, string typ, string nm) : base(env, typ, nm)
+        {
         }
         public override string Sniff()
         {
-            return "I Like The Smell Of Flowers";
+            return "I like the smell of flowers";
+
         }
-    }
+        }
 }

@@ -8,11 +8,13 @@ namespace _2200_BarclayE_Participation03
 {
     public class Shrub : Plant
     {
-        public Shrub( string env, string typ, string nm ) : base( env, typ, nm ) {
+        public Shrub(string env, string type, string nm) : base(env, type, nm)
+        {
         }
         public override string Sniff()
         {
-            return "I Like The Smell Of Shrubs";
+            return "I like the smell of shrubs.";
         }
     }
+   
 }

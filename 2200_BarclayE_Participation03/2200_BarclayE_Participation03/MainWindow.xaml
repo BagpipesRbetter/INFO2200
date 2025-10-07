@@ -90,7 +90,7 @@
                      FontSize="25"/>
         </GroupBox>
         <Image x:Name="ImgPlant"
-               Source="/Images/rose.png"
+               Source="/rose.png"
                Grid.Row="5"
                Grid.Column="0"
                Grid.ColumnSpan="2"
@@ -98,7 +98,7 @@
                VerticalAlignment="Center"
                />
         <Image x:Name="ImgEnvironment"
-               Source="/Images/forest.png"
+               Source="/forest.png"
                Grid.Row="5"
                Grid.Column="2"
                Grid.ColumnSpan="2"

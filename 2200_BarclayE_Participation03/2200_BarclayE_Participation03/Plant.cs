@@ -8,7 +8,6 @@ namespace _2200_BarclayE_Participation03
 {
     public class Plant
     {
-        // private fields
         private string _environment;
         private string _type;
         private string _name;

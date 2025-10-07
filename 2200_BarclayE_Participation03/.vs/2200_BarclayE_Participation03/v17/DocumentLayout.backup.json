@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\",
+  "WorkspaceRootPath": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\detailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\detailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\shrub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\shrub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\detailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\detailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_barclaye_participation03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_barclaye_participation03\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\shrub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\shrub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_barclaye_participation03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EC798042-3ADE-4EE7-BB15-199A9627AA15}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_participation03\\2200_barclaye_participation03\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08026F3-7D5A-4948-AFB1-0A3506459586}|2200_BarclayE_Participation03\\2200_BarclayE_Participation03.csproj|solutionrelative:2200_barclaye_participation03\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +42,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.xaml",
-              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Details.xaml",
-              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Details.xaml",
-              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Details.xaml",
-              "RelativeToolTip": "2200_BarclayE_Participation03\\Details.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-02T18:09:44.006Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tree.cs",
-              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Tree.cs",
-              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Tree.cs",
-              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Tree.cs",
-              "RelativeToolTip": "2200_BarclayE_Participation03\\Tree.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Detailswindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Detailswindow.xaml.cs",
+              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Detailswindow.xaml.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Detailswindow.xaml.cs",
+              "RelativeToolTip": "2200_BarclayE_Participation03\\Detailswindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T17:59:29.253Z",
+              "WhenOpened": "2025-10-07T21:24:08.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Shrub.cs",
-              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Shrub.cs",
-              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Shrub.cs",
-              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Shrub.cs",
-              "RelativeToolTip": "2200_BarclayE_Participation03\\Shrub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T17:56:08.5Z",
+              "Title": "Detailswindow.xaml",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Detailswindow.xaml",
+              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Detailswindow.xaml",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Detailswindow.xaml",
+              "RelativeToolTip": "2200_BarclayE_Participation03\\Detailswindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-07T21:22:46.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Flower.cs",
-              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Flower.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Flower.cs",
               "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Flower.cs",
-              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Flower.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Flower.cs",
               "RelativeToolTip": "2200_BarclayE_Participation03\\Flower.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T18:36:37.069Z",
+              "WhenOpened": "2025-10-07T20:43:54.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Tree.cs",
+              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Tree.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Tree.cs",
+              "RelativeToolTip": "2200_BarclayE_Participation03\\Tree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:43:38.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Plant.cs",
-              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Plant.cs",
-              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Plant.cs",
-              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Plant.cs",
-              "RelativeToolTip": "2200_BarclayE_Participation03\\Plant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Title": "Shrub.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Shrub.cs",
+              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Shrub.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Shrub.cs",
+              "RelativeToolTip": "2200_BarclayE_Participation03\\Shrub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T18:10:19.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\MainWindow.xaml",
-              "RelativeToolTip": "2200_BarclayE_Participation03\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-30T18:02:14.235Z"
+              "WhenOpened": "2025-10-07T20:43:26.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\MainWindow.xaml.cs",
-              "RelativeToolTip": "2200_BarclayE_Participation03\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Plant.cs",
+              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\Plant.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\Plant.cs",
+              "RelativeToolTip": "2200_BarclayE_Participation03\\Plant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T18:02:14.057Z"
+              "WhenOpened": "2025-10-07T20:43:01.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\MainWindow.xaml",
+              "RelativeToolTip": "2200_BarclayE_Participation03\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-07T20:40:13.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "2200_BarclayE_Participation03\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Participation03\\2200_BarclayE_Participation03\\MainWindow.xaml.cs",
+              "RelativeToolTip": "2200_BarclayE_Participation03\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwE0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:40:12.861Z",
+              "EditorCaption": ""
             }
           ]
         }
