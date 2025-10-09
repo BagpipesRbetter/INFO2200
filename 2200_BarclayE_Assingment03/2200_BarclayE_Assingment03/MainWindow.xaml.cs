@@ -26,9 +26,44 @@ namespace _2200_BarclayE_Assingment03
     /// </summary>
     public partial class MainWindow : Window
     {
+        Animal animal;
         public MainWindow()
         {
             InitializeComponent();
+            radDog.IsChecked = true;
+                ImgAnimal.Source = new BitmapImage(new Uri("Images/dog.png", UriKind.Relative));
+                
+        }
+
+        private void radDog_Checked(object sender, RoutedEventArgs e)
+        {
+            ImgAnimal.Source = new BitmapImage(new Uri("Images/dog.png", UriKind.Relative));
+            animal = new Dog("Fur", "Omnivore Prioritizing Meat | Note Wild Type Is Carnivore But Domestic Is Omnivorus");
+            lblResults.Content = "";
+        }
+
+        private void radStork_Checked(object sender, RoutedEventArgs e)
+        {
+            ImgAnimal.Source = new BitmapImage(new Uri("Images/stork.png", UriKind.Relative));
+            animal = new Stork("Feathers", "Obligate Carnivore");
+            lblResults.Content = "";
+        }
+
+        private void btnSkinType_Click(object sender, RoutedEventArgs e)
+        {
+            lblResults.Content += animal.SkinType + " | ";
+        }
+
+        private void btnFoodType_Click(object sender, RoutedEventArgs e)
+        {
+            lblResults.Content += animal.FoodType + " | ";
+        }
+
+        private void radAxolotl_Checked(object sender, RoutedEventArgs e)
+        {
+            ImgAnimal.Source = new BitmapImage(new Uri("Images/axolotl.png", UriKind.Relative));
+            animal = new Axolotl("Permiable Bare Skin", "Insectivore");
+            lblResults.Content = "";
         }
     }
 }
