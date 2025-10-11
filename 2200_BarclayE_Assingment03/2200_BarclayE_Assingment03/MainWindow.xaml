@@ -5,55 +5,169 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_2200_BarclayE_Assingment03"
         mc:Ignorable="d"
-        Title="The Animal Farm" Height="450" Width="800">
+        Title="The Animal Farm" Height="450" Width="615">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200"/>
             <ColumnDefinition Width="200"/>
             <ColumnDefinition Width="200"/>
         </Grid.ColumnDefinitions>
+
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="4*"/>
             <RowDefinition Height="4*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <RadioButton
-x:Name="radDog"
-Content="Dog"
-Grid.Row="0"
-Grid.Column="0"
-HorizontalAlignment="Center"
-VerticalAlignment="Center"
-FontSize="12"
-Checked="radDog_Checked"
-/>
-        <RadioButton
-x:Name="radStork"
-Content="Stork"
-Grid.Row="0"
-Grid.Column="1"
-HorizontalAlignment="Center"
-VerticalAlignment="Center"
-FontSize="12"
-Checked="radStork_Checked"
-/>
-        <RadioButton
-    x:Name="radAxolotl"
-    Content="Axolotl"
-    Grid.Row="0"
-    Grid.Column="2"
-    HorizontalAlignment="Center"
-    VerticalAlignment="Center"
-    FontSize="12"
-    Checked="radAxolotl_Checked" />
 
+        <!-- Radio Buttons -->
+        <RadioButton
+        x:Name="radDog"
+        Content="Dog"
+        Grid.Row="0"
+        Grid.Column="0"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"
+        FontSize="12"
+        Checked="radDog_Checked"/>
 
-        <GroupBox x:Name="grbBaseClassProperties"
-Header="Base Class Properties"
-Grid.Row="1"
-Grid.Column="0"
-Margin="5">
+        <RadioButton
+        x:Name="radStork"
+        Content="Stork"
+        Grid.Row="0"
+        Grid.Column="1"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"
+        FontSize="12"
+        Checked="radStork_Checked"/>
+
+        <RadioButton
+        x:Name="radAxolotl"
+        Content="Axolotl"
+        Grid.Row="0"
+        Grid.Column="2"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"
+        FontSize="12"
+        Checked="radAxolotl_Checked"/>
+
+        <!-- GroupBox: Base Class Properties -->
+        <GroupBox
+        x:Name="grbBaseClassProperties"
+        Header="Base Class Properties"
+        Grid.Row="1"
+        Grid.Column="0"
+        Margin="5">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                </Grid.ColumnDefinitions>
+
+                <Button
+                x:Name="btnSkinType"
+                Content="SkinType"
+                Grid.Row="0"
+                Grid.Column="0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="10"
+                Padding="1,1,1,1"
+                FontSize="12"
+                Click="btnSkinType_Click"/>
+
+                <Button
+                x:Name="btnFoodType"
+                Content="FoodType"
+                Grid.Row="1"
+                Grid.Column="1"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Margin="10"
+                FontSize="12"
+                Click="btnFoodType_Click"
+                Padding="1,1,1,1"/>
+
+                <Button
+                x:Name="btnAnimalType"
+                Content="AnimalType"
+                Grid.Row="2"
+                Grid.Column="2"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="10"
+                Padding="1,1,1,1"
+                FontSize="12"
+                Click="btnAnimalType_Click"/>
+            </Grid>
+        </GroupBox>
+
+        <!-- GroupBox: Base Class Methods -->
+        <GroupBox
+        x:Name="grbBaseClassMethods"
+        Header="Base Class Methods"
+        Grid.Row="1"
+        Grid.Column="1"
+        Margin="5">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                </Grid.ColumnDefinitions>
+
+                <Button
+                x:Name="btnEat"
+                Content="Eat"
+                Grid.Row="0"
+                Grid.Column="0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="10"
+                FontSize="12"
+                Padding="1,1,1,1"
+                Click="btnEat_Click"/>
+
+                <Button
+                x:Name="btnMove"
+                Content="Move"
+                Grid.Row="1"
+                Grid.Column="1"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Margin="10"
+                FontSize="12"
+                Click="btnMove_Click"
+                Padding="1,1,1,1"/>
+
+                <Button
+                x:Name="btnReproduce"
+                Content="Reproduce"
+                Grid.Row="2"
+                Grid.Column="2"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Margin="10"
+                FontSize="12"
+                Click="btnReproduce_Click"
+                Padding="1,1,1,1"/>
+            </Grid>
+        </GroupBox>
+
+        <!-- GroupBox: Derived Class Overrides -->
+        <GroupBox
+        x:Name="grbDerivedClassOverides"
+        Header="Derived Class Overrides"
+        Grid.Row="1"
+        Grid.Column="2"
+        Margin="5">
             <Grid>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="*"/>
@@ -62,44 +176,39 @@ Margin="5">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="200"/>
                 </Grid.ColumnDefinitions>
+
                 <Button
-x:Name="btnSkinType"
-Content="SkinType"
-Grid.Row="0"
-Grid.Column="0"
-HorizontalAlignment="Center"
-VerticalAlignment="Top"
-Margin="10"
-FontSize="12"
-Click="btnSkinType_Click"
-/>
-                <Button
-x:Name="btnFoodType"
-Content="FoodType"
-Grid.Row="0"
-Grid.Column="1"
-HorizontalAlignment="Center"
-VerticalAlignment="Center"
-Margin="10,35,10,10"
-FontSize="12"
-Click="btnFoodType_Click" Padding="1,1,1,1"
-/>
+                x:Name="btnUnique"
+                Content="Unique"
+                Grid.Row="0"
+                Grid.Column="0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="10"
+                FontSize="12"
+                Click="btnUnique_Click"/>
             </Grid>
         </GroupBox>
-        <Image x:Name="ImgAnimal"
-Source="/Images/dog.png"
-Grid.Row="2"
-Grid.Column="0"
-Grid.ColumnSpan="3"
-HorizontalAlignment="Center"
-VerticalAlignment="Center"
-/>
-        <Label x:Name="lblResults"
-Grid.Column="0"
-Grid.Row="3"
-Grid.ColumnSpan="3"
-HorizontalAlignment="Center"
-VerticalAlignment="Center"
-/>
+
+        <!-- Animal Image -->
+        <Image
+        x:Name="ImgAnimal"
+        Source="/Images/dog.png"
+        Grid.Row="2"
+        Grid.Column="0"
+        Grid.ColumnSpan="1"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"/>
+
+        <!-- Results Label -->
+        <Label
+        x:Name="lblResults"
+        Grid.Row="2"
+        Grid.Column="1"
+        Grid.ColumnSpan="2"
+        Grid.RowSpan="2"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"/>
     </Grid>
+
 </Window>

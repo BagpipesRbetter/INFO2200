@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2200_BarclayE_Assingment03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a93026281b56b65f068ca8f682cf36a00740d3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf46fb4b4e2d2b87b5a12fd8baea110bb345db73")]
 [assembly: System.Reflection.AssemblyProductAttribute("2200_BarclayE_Assingment03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2200_BarclayE_Assingment03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

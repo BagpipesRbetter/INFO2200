@@ -8,7 +8,7 @@ namespace _2200_BarclayE_Assingment03
 {
     public class Stork : Animal
     {
-        public Stork(string skinType, string foodType) : base(skinType, foodType)
+        public Stork(string skinType, string foodType, string animalType) : base(skinType, foodType, animalType)
         {
         }
         public override string Move()
@@ -17,7 +17,7 @@ namespace _2200_BarclayE_Assingment03
         }
         public override string Unique()
         {
-            return "Builds Nests";
+            return "Lives In Swamps And Somtimes Eats Juvenile Crocodiles";
         }
     }
 }

@@ -10,11 +10,13 @@ namespace _2200_BarclayE_Assingment03
     {
         private string _skinType;
         private string _foodType;
+        private string _animalType;
 
-        public Animal(string skinType, string foodType)
+        public Animal(string skinType, string foodType, string animalType)
         {
             _skinType = skinType;
             _foodType = foodType;
+            _animalType = animalType;
         }
 
         public string SkinType
@@ -27,19 +29,24 @@ namespace _2200_BarclayE_Assingment03
             get { return _foodType; }
             set { _foodType = value; }
         }
+        public string AnimalType
+        {
+            get { return _animalType; }
+            set { _animalType = value; }
+        }
         public string Eat()
         {
-            return "chomp chomp";
+            return "Jaw Bone";
         }
 
         public virtual string Move()
         {
-            return "hippity hop";
+            return "Walks";
         }
 
-        public string Reproduce()
+        public virtual string Reproduce()
         {
-            return "create offspring";
+            return "Lays Eggs";
         }
         public abstract string Unique();
     }

@@ -8,7 +8,7 @@ namespace _2200_BarclayE_Assingment03
 {
     public class Axolotl : Animal
     {
-        public Axolotl(string skinType, string foodType) : base(skinType, foodType)
+        public Axolotl(string skinType, string foodType, string animalType) : base(skinType, foodType, animalType)
         {
         }
         public override string Move()
