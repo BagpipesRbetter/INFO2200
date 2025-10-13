@@ -1,0 +1,8 @@
+﻿Currency;ISO Code;Symbol
+Russian Ruble;RUB;₽
+Afghan Afghani;AFN;؋
+Euro;EUR; €
+British Pound;GBP; £
+Indian Rupee;INR; ₹
+United States Dollar;USD; $
+Chinese Yuan;CNY; ¥
