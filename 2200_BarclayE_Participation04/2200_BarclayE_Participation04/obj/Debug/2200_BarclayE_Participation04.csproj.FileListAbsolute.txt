@@ -9,3 +9,6 @@ C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Participation04\2200_Barcl
 C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Participation04\2200_BarclayE_Participation04\obj\Debug\2200_BarclayE_Participation04.csproj.CoreCompileInputs.cache
 C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Participation04\2200_BarclayE_Participation04\obj\Debug\2200_BarclayE_Participation04.exe
 C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Participation04\2200_BarclayE_Participation04\obj\Debug\2200_BarclayE_Participation04.pdb
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Participation04\2200_BarclayE_Participation04\obj\Debug\2200_BarclayE_Participation04.exe.config
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Participation04\2200_BarclayE_Participation04\obj\Debug\_2200_BarclayE_Participation04.LandingForm.resources
+C:\Users\Evan\Documents\GitHub\INFO2200\2200_BarclayE_Participation04\2200_BarclayE_Participation04\obj\Debug\_2200_BarclayE_Participation04.LocalPhoneNumbersForm.resources

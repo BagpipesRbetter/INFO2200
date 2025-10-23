@@ -16,5 +16,22 @@ namespace _2200_BarclayE_Participation04
         {
             InitializeComponent();
         }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void btnLocalPhoneNumbers_Click(object sender, EventArgs e)
+        {
+            LocalPhoneNumbersForm localPhoneForm = new LocalPhoneNumbersForm();
+            localPhoneForm.ShowDialog();
+        }
+
+        private void btnImportedPhoneNumbers_Click(object sender, EventArgs e)
+        {
+            UVUPhoneListForm uvuPhoneForm = new UVUPhoneListForm();
+            uvuPhoneForm.ShowDialog();
+        }
     }
 }

@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -24,7 +25,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -67,8 +67,42 @@
     <Compile Include="LandingForm.Designer.cs">
       <DependentUpon>LandingForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="LocalPhoneListDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalPhoneListDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LocalPhoneNumbersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LocalPhoneNumbersForm.Designer.cs">
+      <DependentUpon>LocalPhoneNumbersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OnlinePhoneNumbersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnlinePhoneNumbersForm.Designer.cs">
+      <DependentUpon>OnlinePhoneNumbersForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UVUPhoneListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UVUPhoneListForm.Designer.cs">
+      <DependentUpon>UVUPhoneListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UVUPhoneNumsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UVUPhoneNumsDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LandingForm.resx">
+      <DependentUpon>LandingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LocalPhoneNumbersForm.resx">
+      <DependentUpon>LocalPhoneNumbersForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -78,6 +112,20 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UVUPhoneListForm.resx">
+      <DependentUpon>UVUPhoneListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="LocalPhoneListDBDataSet.xsc">
+      <DependentUpon>LocalPhoneListDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LocalPhoneListDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LocalPhoneListDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LocalPhoneListDBDataSet.xss">
+      <DependentUpon>LocalPhoneListDBDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -87,6 +135,17 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="UVUPhoneNumsDataSet.xsc">
+      <DependentUpon>UVUPhoneNumsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UVUPhoneNumsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UVUPhoneNumsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UVUPhoneNumsDataSet.xss">
+      <DependentUpon>UVUPhoneNumsDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -98,6 +157,13 @@
     <Content Include="LocalPhoneListDB_log.ldf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>LocalPhoneListDB.mdf</DependentUpon>
+    </Content>
+    <Content Include="UVUPhoneNums.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="UVUPhoneNums_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>UVUPhoneNums.mdf</DependentUpon>
     </Content>
   </ItemGroup>
   <ItemGroup>

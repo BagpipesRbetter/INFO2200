@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\",
+  "WorkspaceRootPath": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\stork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\stork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\stork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\axolotl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\axolotl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\axolotl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|c:\\users\\evan\\documents\\github\\info2200\\2200_barclaye_assingment03\\2200_barclaye_assingment03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C5398A1-6538-4CCF-9257-17AAB6965967}|2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03.csproj|solutionrelative:2200_barclaye_assingment03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,73 +46,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Dog.cs",
               "RelativeDocumentMoniker": "2200_BarclayE_Assingment03\\Dog.cs",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Dog.cs",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Dog.cs",
               "RelativeToolTip": "2200_BarclayE_Assingment03\\Dog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T18:43:29.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Axolotl.cs",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Axolotl.cs",
-              "RelativeDocumentMoniker": "2200_BarclayE_Assingment03\\Axolotl.cs",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Axolotl.cs",
-              "RelativeToolTip": "2200_BarclayE_Assingment03\\Axolotl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T17:48:35.964Z"
+              "WhenOpened": "2025-10-07T18:43:29.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Stork.cs",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Stork.cs",
-              "RelativeDocumentMoniker": "2200_BarclayE_Assingment03\\Stork.cs",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Stork.cs",
-              "RelativeToolTip": "2200_BarclayE_Assingment03\\Stork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Title": "Axolotl.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Axolotl.cs",
+              "RelativeDocumentMoniker": "2200_BarclayE_Assingment03\\Axolotl.cs",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Axolotl.cs",
+              "RelativeToolTip": "2200_BarclayE_Assingment03\\Axolotl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T17:47:36.144Z"
+              "WhenOpened": "2025-10-09T17:48:35.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Stork.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Stork.cs",
+              "RelativeDocumentMoniker": "2200_BarclayE_Assingment03\\Stork.cs",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Stork.cs",
+              "RelativeToolTip": "2200_BarclayE_Assingment03\\Stork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:47:36.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Animal.cs",
               "RelativeDocumentMoniker": "2200_BarclayE_Assingment03\\Animal.cs",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Animal.cs",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\Animal.cs",
               "RelativeToolTip": "2200_BarclayE_Assingment03\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAiDIzMzPbvxIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T18:10:33.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\MainWindow.xaml",
               "RelativeDocumentMoniker": "2200_BarclayE_Assingment03\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\MainWindow.xaml",
               "RelativeToolTip": "2200_BarclayE_Assingment03\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-07T18:06:44.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "2200_BarclayE_Assingment03\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Evan\\Documents\\GitHub\\INFO2200\\2200_BarclayE_Assingment03\\2200_BarclayE_Assingment03\\MainWindow.xaml.cs",
               "RelativeToolTip": "2200_BarclayE_Assingment03\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAADAMjMzM5MwwBoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T18:06:41.178Z",
               "EditorCaption": ""
