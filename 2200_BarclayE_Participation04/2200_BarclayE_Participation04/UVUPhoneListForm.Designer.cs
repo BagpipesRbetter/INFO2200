@@ -29,28 +29,28 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UVUPhoneListForm));
             System.Windows.Forms.Label uvuPhoneDirectoryIdLabel;
             System.Windows.Forms.Label departmentLabel;
             System.Windows.Forms.Label phoneNumberLabel;
             System.Windows.Forms.Label mailStopLabel;
             System.Windows.Forms.Label officeLocationLabel;
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UVUPhoneListForm));
             this.uVUPhoneNumsDataSet = new _2200_BarclayE_Participation04.UVUPhoneNumsDataSet();
             this.uvuPhoneDirectoryBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.uvuPhoneDirectoryTableAdapter = new _2200_BarclayE_Participation04.UVUPhoneNumsDataSetTableAdapters.UvuPhoneDirectoryTableAdapter();
             this.tableAdapterManager = new _2200_BarclayE_Participation04.UVUPhoneNumsDataSetTableAdapters.TableAdapterManager();
             this.uvuPhoneDirectoryBindingNavigator = new System.Windows.Forms.BindingNavigator(this.components);
+            this.bindingNavigatorAddNewItem = new System.Windows.Forms.ToolStripButton();
+            this.bindingNavigatorCountItem = new System.Windows.Forms.ToolStripLabel();
+            this.bindingNavigatorDeleteItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorMoveFirstItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorMovePreviousItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorSeparator = new System.Windows.Forms.ToolStripSeparator();
             this.bindingNavigatorPositionItem = new System.Windows.Forms.ToolStripTextBox();
-            this.bindingNavigatorCountItem = new System.Windows.Forms.ToolStripLabel();
             this.bindingNavigatorSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.bindingNavigatorMoveNextItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorMoveLastItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorSeparator2 = new System.Windows.Forms.ToolStripSeparator();
-            this.bindingNavigatorAddNewItem = new System.Windows.Forms.ToolStripButton();
-            this.bindingNavigatorDeleteItem = new System.Windows.Forms.ToolStripButton();
             this.uvuPhoneDirectoryBindingNavigatorSaveItem = new System.Windows.Forms.ToolStripButton();
             this.uvuPhoneDirectoryIdTextBox = new System.Windows.Forms.TextBox();
             this.departmentTextBox = new System.Windows.Forms.TextBox();
@@ -67,6 +67,51 @@
             ((System.ComponentModel.ISupportInitialize)(this.uvuPhoneDirectoryBindingNavigator)).BeginInit();
             this.uvuPhoneDirectoryBindingNavigator.SuspendLayout();
             this.SuspendLayout();
+            // 
+            // uvuPhoneDirectoryIdLabel
+            // 
+            uvuPhoneDirectoryIdLabel.AutoSize = true;
+            uvuPhoneDirectoryIdLabel.Location = new System.Drawing.Point(25, 68);
+            uvuPhoneDirectoryIdLabel.Name = "uvuPhoneDirectoryIdLabel";
+            uvuPhoneDirectoryIdLabel.Size = new System.Drawing.Size(121, 13);
+            uvuPhoneDirectoryIdLabel.TabIndex = 1;
+            uvuPhoneDirectoryIdLabel.Text = "Uvu Phone Directory Id:";
+            // 
+            // departmentLabel
+            // 
+            departmentLabel.AutoSize = true;
+            departmentLabel.Location = new System.Drawing.Point(25, 94);
+            departmentLabel.Name = "departmentLabel";
+            departmentLabel.Size = new System.Drawing.Size(65, 13);
+            departmentLabel.TabIndex = 3;
+            departmentLabel.Text = "Department:";
+            // 
+            // phoneNumberLabel
+            // 
+            phoneNumberLabel.AutoSize = true;
+            phoneNumberLabel.Location = new System.Drawing.Point(25, 120);
+            phoneNumberLabel.Name = "phoneNumberLabel";
+            phoneNumberLabel.Size = new System.Drawing.Size(81, 13);
+            phoneNumberLabel.TabIndex = 5;
+            phoneNumberLabel.Text = "Phone Number:";
+            // 
+            // mailStopLabel
+            // 
+            mailStopLabel.AutoSize = true;
+            mailStopLabel.Location = new System.Drawing.Point(25, 146);
+            mailStopLabel.Name = "mailStopLabel";
+            mailStopLabel.Size = new System.Drawing.Size(54, 13);
+            mailStopLabel.TabIndex = 7;
+            mailStopLabel.Text = "Mail Stop:";
+            // 
+            // officeLocationLabel
+            // 
+            officeLocationLabel.AutoSize = true;
+            officeLocationLabel.Location = new System.Drawing.Point(25, 172);
+            officeLocationLabel.Name = "officeLocationLabel";
+            officeLocationLabel.Size = new System.Drawing.Size(82, 13);
+            officeLocationLabel.TabIndex = 9;
+            officeLocationLabel.Text = "Office Location:";
             // 
             // uVUPhoneNumsDataSet
             // 
@@ -115,9 +160,34 @@
             this.uvuPhoneDirectoryBindingNavigator.MovePreviousItem = this.bindingNavigatorMovePreviousItem;
             this.uvuPhoneDirectoryBindingNavigator.Name = "uvuPhoneDirectoryBindingNavigator";
             this.uvuPhoneDirectoryBindingNavigator.PositionItem = this.bindingNavigatorPositionItem;
-            this.uvuPhoneDirectoryBindingNavigator.Size = new System.Drawing.Size(800, 42);
+            this.uvuPhoneDirectoryBindingNavigator.Size = new System.Drawing.Size(402, 39);
             this.uvuPhoneDirectoryBindingNavigator.TabIndex = 0;
             this.uvuPhoneDirectoryBindingNavigator.Text = "bindingNavigator1";
+            // 
+            // bindingNavigatorAddNewItem
+            // 
+            this.bindingNavigatorAddNewItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.bindingNavigatorAddNewItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorAddNewItem.Image")));
+            this.bindingNavigatorAddNewItem.Name = "bindingNavigatorAddNewItem";
+            this.bindingNavigatorAddNewItem.RightToLeftAutoMirrorImage = true;
+            this.bindingNavigatorAddNewItem.Size = new System.Drawing.Size(36, 36);
+            this.bindingNavigatorAddNewItem.Text = "Add new";
+            // 
+            // bindingNavigatorCountItem
+            // 
+            this.bindingNavigatorCountItem.Name = "bindingNavigatorCountItem";
+            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(35, 36);
+            this.bindingNavigatorCountItem.Text = "of {0}";
+            this.bindingNavigatorCountItem.ToolTipText = "Total number of items";
+            // 
+            // bindingNavigatorDeleteItem
+            // 
+            this.bindingNavigatorDeleteItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.bindingNavigatorDeleteItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorDeleteItem.Image")));
+            this.bindingNavigatorDeleteItem.Name = "bindingNavigatorDeleteItem";
+            this.bindingNavigatorDeleteItem.RightToLeftAutoMirrorImage = true;
+            this.bindingNavigatorDeleteItem.Size = new System.Drawing.Size(36, 36);
+            this.bindingNavigatorDeleteItem.Text = "Delete";
             // 
             // bindingNavigatorMoveFirstItem
             // 
@@ -125,7 +195,7 @@
             this.bindingNavigatorMoveFirstItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMoveFirstItem.Image")));
             this.bindingNavigatorMoveFirstItem.Name = "bindingNavigatorMoveFirstItem";
             this.bindingNavigatorMoveFirstItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMoveFirstItem.Size = new System.Drawing.Size(46, 19);
+            this.bindingNavigatorMoveFirstItem.Size = new System.Drawing.Size(36, 36);
             this.bindingNavigatorMoveFirstItem.Text = "Move first";
             // 
             // bindingNavigatorMovePreviousItem
@@ -134,34 +204,28 @@
             this.bindingNavigatorMovePreviousItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMovePreviousItem.Image")));
             this.bindingNavigatorMovePreviousItem.Name = "bindingNavigatorMovePreviousItem";
             this.bindingNavigatorMovePreviousItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMovePreviousItem.Size = new System.Drawing.Size(46, 36);
+            this.bindingNavigatorMovePreviousItem.Size = new System.Drawing.Size(36, 36);
             this.bindingNavigatorMovePreviousItem.Text = "Move previous";
             // 
             // bindingNavigatorSeparator
             // 
             this.bindingNavigatorSeparator.Name = "bindingNavigatorSeparator";
-            this.bindingNavigatorSeparator.Size = new System.Drawing.Size(6, 6);
+            this.bindingNavigatorSeparator.Size = new System.Drawing.Size(6, 39);
             // 
             // bindingNavigatorPositionItem
             // 
             this.bindingNavigatorPositionItem.AccessibleName = "Position";
             this.bindingNavigatorPositionItem.AutoSize = false;
+            this.bindingNavigatorPositionItem.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.bindingNavigatorPositionItem.Name = "bindingNavigatorPositionItem";
             this.bindingNavigatorPositionItem.Size = new System.Drawing.Size(50, 39);
             this.bindingNavigatorPositionItem.Text = "0";
             this.bindingNavigatorPositionItem.ToolTipText = "Current position";
             // 
-            // bindingNavigatorCountItem
-            // 
-            this.bindingNavigatorCountItem.Name = "bindingNavigatorCountItem";
-            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(70, 32);
-            this.bindingNavigatorCountItem.Text = "of {0}";
-            this.bindingNavigatorCountItem.ToolTipText = "Total number of items";
-            // 
             // bindingNavigatorSeparator1
             // 
-            this.bindingNavigatorSeparator1.Name = "bindingNavigatorSeparator";
-            this.bindingNavigatorSeparator1.Size = new System.Drawing.Size(6, 6);
+            this.bindingNavigatorSeparator1.Name = "bindingNavigatorSeparator1";
+            this.bindingNavigatorSeparator1.Size = new System.Drawing.Size(6, 39);
             // 
             // bindingNavigatorMoveNextItem
             // 
@@ -169,7 +233,7 @@
             this.bindingNavigatorMoveNextItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMoveNextItem.Image")));
             this.bindingNavigatorMoveNextItem.Name = "bindingNavigatorMoveNextItem";
             this.bindingNavigatorMoveNextItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMoveNextItem.Size = new System.Drawing.Size(46, 36);
+            this.bindingNavigatorMoveNextItem.Size = new System.Drawing.Size(36, 36);
             this.bindingNavigatorMoveNextItem.Text = "Move next";
             // 
             // bindingNavigatorMoveLastItem
@@ -178,49 +242,22 @@
             this.bindingNavigatorMoveLastItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMoveLastItem.Image")));
             this.bindingNavigatorMoveLastItem.Name = "bindingNavigatorMoveLastItem";
             this.bindingNavigatorMoveLastItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMoveLastItem.Size = new System.Drawing.Size(46, 36);
+            this.bindingNavigatorMoveLastItem.Size = new System.Drawing.Size(36, 36);
             this.bindingNavigatorMoveLastItem.Text = "Move last";
             // 
             // bindingNavigatorSeparator2
             // 
-            this.bindingNavigatorSeparator2.Name = "bindingNavigatorSeparator";
-            this.bindingNavigatorSeparator2.Size = new System.Drawing.Size(6, 6);
-            // 
-            // bindingNavigatorAddNewItem
-            // 
-            this.bindingNavigatorAddNewItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.bindingNavigatorAddNewItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorAddNewItem.Image")));
-            this.bindingNavigatorAddNewItem.Name = "bindingNavigatorAddNewItem";
-            this.bindingNavigatorAddNewItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorAddNewItem.Size = new System.Drawing.Size(46, 36);
-            this.bindingNavigatorAddNewItem.Text = "Add new";
-            // 
-            // bindingNavigatorDeleteItem
-            // 
-            this.bindingNavigatorDeleteItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.bindingNavigatorDeleteItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorDeleteItem.Image")));
-            this.bindingNavigatorDeleteItem.Name = "bindingNavigatorDeleteItem";
-            this.bindingNavigatorDeleteItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorDeleteItem.Size = new System.Drawing.Size(46, 36);
-            this.bindingNavigatorDeleteItem.Text = "Delete";
+            this.bindingNavigatorSeparator2.Name = "bindingNavigatorSeparator2";
+            this.bindingNavigatorSeparator2.Size = new System.Drawing.Size(6, 39);
             // 
             // uvuPhoneDirectoryBindingNavigatorSaveItem
             // 
             this.uvuPhoneDirectoryBindingNavigatorSaveItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
             this.uvuPhoneDirectoryBindingNavigatorSaveItem.Image = ((System.Drawing.Image)(resources.GetObject("uvuPhoneDirectoryBindingNavigatorSaveItem.Image")));
             this.uvuPhoneDirectoryBindingNavigatorSaveItem.Name = "uvuPhoneDirectoryBindingNavigatorSaveItem";
-            this.uvuPhoneDirectoryBindingNavigatorSaveItem.Size = new System.Drawing.Size(23, 23);
+            this.uvuPhoneDirectoryBindingNavigatorSaveItem.Size = new System.Drawing.Size(36, 36);
             this.uvuPhoneDirectoryBindingNavigatorSaveItem.Text = "Save Data";
             this.uvuPhoneDirectoryBindingNavigatorSaveItem.Click += new System.EventHandler(this.uvuPhoneDirectoryBindingNavigatorSaveItem_Click);
-            // 
-            // uvuPhoneDirectoryIdLabel
-            // 
-            uvuPhoneDirectoryIdLabel.AutoSize = true;
-            uvuPhoneDirectoryIdLabel.Location = new System.Drawing.Point(25, 68);
-            uvuPhoneDirectoryIdLabel.Name = "uvuPhoneDirectoryIdLabel";
-            uvuPhoneDirectoryIdLabel.Size = new System.Drawing.Size(121, 13);
-            uvuPhoneDirectoryIdLabel.TabIndex = 1;
-            uvuPhoneDirectoryIdLabel.Text = "Uvu Phone Directory Id:";
             // 
             // uvuPhoneDirectoryIdTextBox
             // 
@@ -230,15 +267,6 @@
             this.uvuPhoneDirectoryIdTextBox.Size = new System.Drawing.Size(100, 20);
             this.uvuPhoneDirectoryIdTextBox.TabIndex = 2;
             // 
-            // departmentLabel
-            // 
-            departmentLabel.AutoSize = true;
-            departmentLabel.Location = new System.Drawing.Point(25, 94);
-            departmentLabel.Name = "departmentLabel";
-            departmentLabel.Size = new System.Drawing.Size(65, 13);
-            departmentLabel.TabIndex = 3;
-            departmentLabel.Text = "Department:";
-            // 
             // departmentTextBox
             // 
             this.departmentTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.uvuPhoneDirectoryBindingSource, "Department", true));
@@ -246,15 +274,6 @@
             this.departmentTextBox.Name = "departmentTextBox";
             this.departmentTextBox.Size = new System.Drawing.Size(100, 20);
             this.departmentTextBox.TabIndex = 4;
-            // 
-            // phoneNumberLabel
-            // 
-            phoneNumberLabel.AutoSize = true;
-            phoneNumberLabel.Location = new System.Drawing.Point(25, 120);
-            phoneNumberLabel.Name = "phoneNumberLabel";
-            phoneNumberLabel.Size = new System.Drawing.Size(81, 13);
-            phoneNumberLabel.TabIndex = 5;
-            phoneNumberLabel.Text = "Phone Number:";
             // 
             // phoneNumberTextBox
             // 
@@ -264,15 +283,6 @@
             this.phoneNumberTextBox.Size = new System.Drawing.Size(100, 20);
             this.phoneNumberTextBox.TabIndex = 6;
             // 
-            // mailStopLabel
-            // 
-            mailStopLabel.AutoSize = true;
-            mailStopLabel.Location = new System.Drawing.Point(25, 146);
-            mailStopLabel.Name = "mailStopLabel";
-            mailStopLabel.Size = new System.Drawing.Size(54, 13);
-            mailStopLabel.TabIndex = 7;
-            mailStopLabel.Text = "Mail Stop:";
-            // 
             // mailStopTextBox
             // 
             this.mailStopTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.uvuPhoneDirectoryBindingSource, "MailStop", true));
@@ -280,15 +290,6 @@
             this.mailStopTextBox.Name = "mailStopTextBox";
             this.mailStopTextBox.Size = new System.Drawing.Size(100, 20);
             this.mailStopTextBox.TabIndex = 8;
-            // 
-            // officeLocationLabel
-            // 
-            officeLocationLabel.AutoSize = true;
-            officeLocationLabel.Location = new System.Drawing.Point(25, 172);
-            officeLocationLabel.Name = "officeLocationLabel";
-            officeLocationLabel.Size = new System.Drawing.Size(82, 13);
-            officeLocationLabel.TabIndex = 9;
-            officeLocationLabel.Text = "Office Location:";
             // 
             // officeLocationTextBox
             // 
@@ -302,7 +303,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(402, 225);
             this.Controls.Add(uvuPhoneDirectoryIdLabel);
             this.Controls.Add(this.uvuPhoneDirectoryIdTextBox);
             this.Controls.Add(departmentLabel);

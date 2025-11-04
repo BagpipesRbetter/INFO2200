@@ -16,5 +16,25 @@ namespace _2200_BarclayE_Participation04
         {
             InitializeComponent();
         }
+
+        private void phoneListBindingNavigatorSaveItem_Click(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.phoneListBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.localPhoneListDBDataSet);
+
+        }
+
+        private void LocalPhoneNumbersForm_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'localPhoneListDBDataSet.PhoneList' table. You can move, or remove it, as needed.
+            this.phoneListTableAdapter.Fill(this.localPhoneListDBDataSet.PhoneList);
+
+        }
+
+        private void Searchbtn_Click(object sender, EventArgs e)
+        {
+            this.phoneListTableAdapter.FillByFirstNameSearch(this.localPhoneListDBDataSet.PhoneList, textBox1.Text);
+        }
     }
 }
