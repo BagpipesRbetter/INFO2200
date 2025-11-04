@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|c:\\users\\11011406\\documents\\github\\info2200\\2200_m05_assignment_start\\2200_m05_assignment_start\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|solutionrelative:2200_m05_assignment_start\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|c:\\users\\11011406\\documents\\github\\info2200\\2200_m05_assignment_start\\2200_m05_assignment_start\\properties\\jbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|solutionrelative:2200_m05_assignment_start\\properties\\jbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_m05_assignment_start\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|solutionrelative:2200_m05_assignment_start\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_m05_assignment_start\\jellybellyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|solutionrelative:2200_m05_assignment_start\\jellybellyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|c:\\users\\11011406\\documents\\github\\info2200\\2200_m05_assignment_start\\2200_m05_assignment_start\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|solutionrelative:2200_m05_assignment_start\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|c:\\users\\11011406\\documents\\github\\info2200\\2200_m05_assignment_start\\2200_m05_assignment_start\\jellybelly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A132658-835F-4D13-9BEA-A37E706D2CFA}|2200_M05_Assignment_Start\\2200_M05_Assignment_Start.csproj|solutionrelative:2200_m05_assignment_start\\jellybelly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "2200_M05_Assignment_Start\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "2200_M05_Assignment_Start\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:02:12.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JellyBelly.cs",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\JellyBelly.cs",
+              "RelativeDocumentMoniker": "2200_M05_Assignment_Start\\JellyBelly.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\JellyBelly.cs",
+              "RelativeToolTip": "2200_M05_Assignment_Start\\JellyBelly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:52:05.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JBModel.cs",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\Properties\\JBModel.cs",
+              "RelativeDocumentMoniker": "2200_M05_Assignment_Start\\Properties\\JBModel.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\Properties\\JBModel.cs",
+              "RelativeToolTip": "2200_M05_Assignment_Start\\Properties\\JBModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:47:33.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\MainForm.cs",
+              "RelativeDocumentMoniker": "2200_M05_Assignment_Start\\MainForm.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\MainForm.cs [Design]",
+              "RelativeToolTip": "2200_M05_Assignment_Start\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:04:44.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JellyBellyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\JellyBellyForm.cs",
+              "RelativeDocumentMoniker": "2200_M05_Assignment_Start\\JellyBellyForm.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\JellyBellyForm.cs [Design]",
+              "RelativeToolTip": "2200_M05_Assignment_Start\\JellyBellyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:19:24.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "2200_M05_Assignment_Start\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Assignment_Start\\2200_M05_Assignment_Start\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "2200_M05_Assignment_Start\\CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:19:26.895Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
