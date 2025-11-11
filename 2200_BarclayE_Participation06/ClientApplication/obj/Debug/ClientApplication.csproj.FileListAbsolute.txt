@@ -1,0 +1,11 @@
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\obj\Debug\ClientApplication.Form1.resources
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\obj\Debug\ClientApplication.pdb
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ClientApplication\obj\Debug\ClientApplication.exe.config

@@ -1,0 +1,8 @@
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ServerApplication\bin\Debug\ServerApplication.exe.config
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ServerApplication\bin\Debug\ServerApplication.exe
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ServerApplication\bin\Debug\ServerApplication.pdb
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ServerApplication\obj\Debug\ServerApplication.csproj.AssemblyReference.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ServerApplication\obj\Debug\ServerApplication.exe
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ServerApplication\obj\Debug\ServerApplication.pdb
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Participation06\ServerApplication\obj\Debug\ServerApplication.exe.config
