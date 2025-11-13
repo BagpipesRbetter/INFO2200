@@ -1,0 +1,7 @@
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ServerApp\obj\Debug\ServerApp.pdb

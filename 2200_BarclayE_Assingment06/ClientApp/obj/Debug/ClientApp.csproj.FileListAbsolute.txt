@@ -1,0 +1,11 @@
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\11011406\Documents\GitHub\INFO2200\2200_BarclayE_Assingment06\ClientApp\obj\Debug\ClientApp.exe.config
