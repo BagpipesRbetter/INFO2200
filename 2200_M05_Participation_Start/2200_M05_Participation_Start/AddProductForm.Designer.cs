@@ -117,9 +117,10 @@
             this.BtnSave.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.BtnSave.Name = "BtnSave";
             this.BtnSave.Size = new System.Drawing.Size(435, 52);
-            this.BtnSave.TabIndex = 12;
+            this.BtnSave.TabIndex = 6;
             this.BtnSave.Text = "Save and Close";
             this.BtnSave.UseVisualStyleBackColor = true;
+            this.BtnSave.Click += new System.EventHandler(this.BtnSave_Click);
             // 
             // TxtBoxProdNum
             // 
@@ -127,7 +128,7 @@
             this.TxtBoxProdNum.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TxtBoxProdNum.Name = "TxtBoxProdNum";
             this.TxtBoxProdNum.Size = new System.Drawing.Size(433, 26);
-            this.TxtBoxProdNum.TabIndex = 1;
+            this.TxtBoxProdNum.TabIndex = 0;
             // 
             // TxtBoxDesc
             // 
@@ -135,7 +136,7 @@
             this.TxtBoxDesc.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TxtBoxDesc.Name = "TxtBoxDesc";
             this.TxtBoxDesc.Size = new System.Drawing.Size(433, 26);
-            this.TxtBoxDesc.TabIndex = 3;
+            this.TxtBoxDesc.TabIndex = 1;
             // 
             // TxtBoxUoH
             // 
@@ -143,7 +144,7 @@
             this.TxtBoxUoH.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TxtBoxUoH.Name = "TxtBoxUoH";
             this.TxtBoxUoH.Size = new System.Drawing.Size(433, 26);
-            this.TxtBoxUoH.TabIndex = 5;
+            this.TxtBoxUoH.TabIndex = 2;
             // 
             // TxtBoxPrice
             // 
@@ -151,7 +152,7 @@
             this.TxtBoxPrice.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TxtBoxPrice.Name = "TxtBoxPrice";
             this.TxtBoxPrice.Size = new System.Drawing.Size(433, 26);
-            this.TxtBoxPrice.TabIndex = 7;
+            this.TxtBoxPrice.TabIndex = 3;
             // 
             // CbCategory
             // 
@@ -160,7 +161,8 @@
             this.CbCategory.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.CbCategory.Name = "CbCategory";
             this.CbCategory.Size = new System.Drawing.Size(212, 28);
-            this.CbCategory.TabIndex = 9;
+            this.CbCategory.TabIndex = 4;
+            this.CbCategory.SelectedIndexChanged += new System.EventHandler(this.CbCategory_SelectedIndexChanged);
             // 
             // TxtBoxNewCategory
             // 
@@ -168,7 +170,7 @@
             this.TxtBoxNewCategory.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TxtBoxNewCategory.Name = "TxtBoxNewCategory";
             this.TxtBoxNewCategory.Size = new System.Drawing.Size(144, 26);
-            this.TxtBoxNewCategory.TabIndex = 11;
+            this.TxtBoxNewCategory.TabIndex = 5;
             this.TxtBoxNewCategory.Visible = false;
             // 
             // BtnCancel
@@ -176,7 +178,7 @@
             this.BtnCancel.Location = new System.Drawing.Point(514, 326);
             this.BtnCancel.Name = "BtnCancel";
             this.BtnCancel.Size = new System.Drawing.Size(81, 30);
-            this.BtnCancel.TabIndex = 13;
+            this.BtnCancel.TabIndex = 7;
             this.BtnCancel.Text = "Cancel";
             this.BtnCancel.UseVisualStyleBackColor = true;
             // 
@@ -202,7 +204,8 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "AddProductForm";
-            this.Text = "Add Product Form";
+            this.Text = "`";
+            this.Load += new System.EventHandler(this.AddProductForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

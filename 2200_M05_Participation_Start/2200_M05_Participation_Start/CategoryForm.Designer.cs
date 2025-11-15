@@ -49,6 +49,7 @@
             this.Controls.Add(this.LvCategories);
             this.Name = "CategoryForm";
             this.Text = "Category Form";
+            this.Load += new System.EventHandler(this.CategoryForm_Load);
             this.ResumeLayout(false);
 
         }

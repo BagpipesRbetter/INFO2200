@@ -1,37 +1,56 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\",
+  "WorkspaceRootPath": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\productsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\productsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|c:\\users\\11011406\\documents\\github\\info2200\\2200_m05_participation_start\\2200_m05_participation_start\\productsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\productsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\productentitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|c:\\users\\evanj\\documents\\github\\info2200\\2200_m05_participation_start\\2200_m05_participation_start\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\productsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\productsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/C__USERS_EVANJ_DOCUMENTS_GITHUB_INFO2200_2200_BARCLAYE_PARTICIPATION05_PRODUCTDB.MDF/True/SqlTable/dbo.Product.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\productsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\productsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_m05_participation_start\\productentitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F48DEF7-4975-4EB3-9F14-71AAC1533E53}|2200_M05_Participation_Start\\2200_M05_Participation_Start.csproj|solutionrelative:2200_m05_participation_start\\productentitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,28 +61,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "2200_M05_Participation_Start\\AddProductForm.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\AddProductForm.cs",
+              "RelativeToolTip": "2200_M05_Participation_Start\\AddProductForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:16:53.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "2200_M05_Participation_Start\\AddProductForm.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\AddProductForm.cs [Design]",
+              "RelativeToolTip": "2200_M05_Participation_Start\\AddProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:15:57.523Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "2200_M05_Participation_Start\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\CategoryForm.cs",
+              "RelativeToolTip": "2200_M05_Participation_Start\\CategoryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:00:34.269Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "2200_M05_Participation_Start\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "2200_M05_Participation_Start\\CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:00:25.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Product.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/C__USERS_EVANJ_DOCUMENTS_GITHUB_INFO2200_2200_BARCLAYE_PARTICIPATION05_PRODUCTDB.MDF/True/SqlTable/dbo.Product.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/C__USERS_EVANJ_DOCUMENTS_GITHUB_INFO2200_2200_BARCLAYE_PARTICIPATION05_PRODUCTDB.MDF/True/SqlTable/dbo.Product.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-15T02:40:38.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductSearchForm.cs",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductSearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductSearchForm.cs",
               "RelativeDocumentMoniker": "2200_M05_Participation_Start\\ProductSearchForm.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductSearchForm.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductSearchForm.cs",
               "RelativeToolTip": "2200_M05_Participation_Start\\ProductSearchForm.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDMAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T18:43:51.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ProductSearchForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductSearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductSearchForm.cs",
               "RelativeDocumentMoniker": "2200_M05_Participation_Start\\ProductSearchForm.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductSearchForm.cs [Design]",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductSearchForm.cs [Design]",
               "RelativeToolTip": "2200_M05_Participation_Start\\ProductSearchForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T18:42:42.408Z",
@@ -71,75 +157,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "ProductForm.cs",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductForm.cs",
               "RelativeDocumentMoniker": "2200_M05_Participation_Start\\ProductForm.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductForm.cs",
               "RelativeToolTip": "2200_M05_Participation_Start\\ProductForm.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA4wBwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:40:33.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T18:40:33.727Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductForm.cs",
-              "RelativeDocumentMoniker": "2200_M05_Participation_Start\\ProductForm.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductForm.cs [Design]",
-              "RelativeToolTip": "2200_M05_Participation_Start\\ProductForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:37:19.322Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "2200_M05_Participation_Start\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "2200_M05_Participation_Start\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:22:26.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\App.config",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\App.config",
               "RelativeDocumentMoniker": "2200_M05_Participation_Start\\App.config",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\App.config",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\App.config",
               "RelativeToolTip": "2200_M05_Participation_Start\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-10-30T18:17:05.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductForm.cs",
+              "RelativeDocumentMoniker": "2200_M05_Participation_Start\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductForm.cs [Design]",
+              "RelativeToolTip": "2200_M05_Participation_Start\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:37:19.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "2200_M05_Participation_Start\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "2200_M05_Participation_Start\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:22:26.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\Product.cs",
               "RelativeDocumentMoniker": "2200_M05_Participation_Start\\Product.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\Product.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\Product.cs",
               "RelativeToolTip": "2200_M05_Participation_Start\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T18:13:39.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ProductEntityDb.cs",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductEntityDb.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductEntityDb.cs",
               "RelativeDocumentMoniker": "2200_M05_Participation_Start\\ProductEntityDb.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductEntityDb.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\2200_M05_Participation_Start\\2200_M05_Participation_Start\\ProductEntityDb.cs",
               "RelativeToolTip": "2200_M05_Participation_Start\\ProductEntityDb.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA2wA4AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T18:09:56.971Z"
             }

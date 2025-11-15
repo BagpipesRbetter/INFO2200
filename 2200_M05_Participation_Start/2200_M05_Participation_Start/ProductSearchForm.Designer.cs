@@ -61,6 +61,7 @@
             this.TxtBoxProductDesc.Name = "TxtBoxProductDesc";
             this.TxtBoxProductDesc.Size = new System.Drawing.Size(231, 20);
             this.TxtBoxProductDesc.TabIndex = 2;
+            this.TxtBoxProductDesc.TextChanged += new System.EventHandler(this.TxtBoxProductDesc_TextChanged);
             // 
             // label2
             // 
@@ -87,6 +88,7 @@
             this.BtnAddNewProd.TabIndex = 5;
             this.BtnAddNewProd.Text = "Add New Product";
             this.BtnAddNewProd.UseVisualStyleBackColor = true;
+            this.BtnAddNewProd.Click += new System.EventHandler(this.BtnAddNewProd_Click);
             // 
             // BtnDeleteProd
             // 
@@ -96,6 +98,7 @@
             this.BtnDeleteProd.TabIndex = 6;
             this.BtnDeleteProd.Text = "Delete Product";
             this.BtnDeleteProd.UseVisualStyleBackColor = true;
+            this.BtnDeleteProd.Click += new System.EventHandler(this.BtnDeleteProd_Click);
             // 
             // ProductSearchForm
             // 
