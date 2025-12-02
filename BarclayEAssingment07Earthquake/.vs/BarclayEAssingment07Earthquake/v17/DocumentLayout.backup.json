@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|c:\\users\\11011406\\documents\\github\\info2200\\barclayeassingment07earthquake\\barclayeassingment07\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|solutionrelative:barclayeassingment07\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|c:\\users\\11011406\\documents\\github\\info2200\\barclayeassingment07earthquake\\barclayeassingment07\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|solutionrelative:barclayeassingment07\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|c:\\users\\11011406\\documents\\github\\info2200\\barclayeassingment07earthquake\\barclayeassingment07\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|solutionrelative:barclayeassingment07\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|c:\\users\\11011406\\documents\\github\\info2200\\barclayeassingment07earthquake\\barclayeassingment07\\barclayeassingment07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|solutionrelative:barclayeassingment07\\barclayeassingment07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|c:\\users\\11011406\\documents\\github\\info2200\\barclayeassingment07earthquake\\barclayeassingment07\\earthquake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|solutionrelative:barclayeassingment07\\earthquake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|c:\\users\\11011406\\documents\\github\\info2200\\barclayeassingment07earthquake\\barclayeassingment07\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8283E0E-6D3D-45DC-B7AB-124D5C2BAD15}|BarclayEAssingment07\\BarclayEAssingment07.csproj|solutionrelative:barclayeassingment07\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BarclayEAssingment07\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\App.xaml.cs",
+              "RelativeToolTip": "BarclayEAssingment07\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:29:56.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "BarclayEAssingment07\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\MainPage.xaml.cs",
+              "RelativeToolTip": "BarclayEAssingment07\\MainPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBoAAADgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:03:15.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarclayEAssingment07",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\BarclayEAssingment07.csproj",
+              "RelativeDocumentMoniker": "BarclayEAssingment07\\BarclayEAssingment07.csproj",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\BarclayEAssingment07.csproj",
+              "RelativeToolTip": "BarclayEAssingment07\\BarclayEAssingment07.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T19:02:30.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\MainPage.xaml",
+              "RelativeDocumentMoniker": "BarclayEAssingment07\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\MainPage.xaml",
+              "RelativeToolTip": "BarclayEAssingment07\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-02T19:02:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "BarclayEAssingment07\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\MauiProgram.cs",
+              "RelativeToolTip": "BarclayEAssingment07\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:01:27.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Earthquake.cs",
+              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\Earthquake.cs",
+              "RelativeDocumentMoniker": "BarclayEAssingment07\\Earthquake.cs",
+              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\Earthquake.cs",
+              "RelativeToolTip": "BarclayEAssingment07\\Earthquake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:59:22.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
