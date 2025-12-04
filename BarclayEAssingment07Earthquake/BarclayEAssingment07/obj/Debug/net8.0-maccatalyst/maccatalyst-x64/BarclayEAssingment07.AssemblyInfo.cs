@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarclayEAssingment07")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6bff8d312b95d70aa819be1b23100498380b035e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0e6c7f68efd1dd82ce6993a74e9e8d4c2e25e9ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarclayEAssingment07")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarclayEAssingment07")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

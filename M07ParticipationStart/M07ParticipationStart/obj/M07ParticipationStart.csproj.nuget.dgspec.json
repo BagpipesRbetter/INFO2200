@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\11017270\\OneDrive - Utah Valley University\\Desktop\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj": {}
+    "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\11017270\\OneDrive - Utah Valley University\\Desktop\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj": {
+    "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\11017270\\OneDrive - Utah Valley University\\Desktop\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj",
+        "projectUniqueName": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj",
         "projectName": "M07ParticipationStart",
-        "projectPath": "C:\\Users\\11017270\\OneDrive - Utah Valley University\\Desktop\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj",
-        "packagesPath": "C:\\Users\\11017270\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\11017270\\OneDrive - Utah Valley University\\Desktop\\M07ParticipationStart\\M07ParticipationStart\\obj\\",
+        "projectPath": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj",
+        "packagesPath": "C:\\Users\\11011406\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\11017270\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\11011406\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -82,8 +82,12 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.19, )",
+              "version": "[8.0.17, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
             }
           },
           "imports": [
@@ -127,7 +131,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-ios18.0": {
           "targetAlias": "net8.0-ios",
@@ -147,8 +151,12 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.19, )",
+              "version": "[8.0.17, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
             }
           },
           "imports": [
@@ -180,7 +188,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-maccatalyst18.0": {
           "targetAlias": "net8.0-maccatalyst",
@@ -200,8 +208,12 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.19, )",
+              "version": "[8.0.17, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
             }
           },
           "imports": [
@@ -234,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
@@ -250,6 +262,10 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.100, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
             }
           },
           "imports": [
@@ -277,7 +293,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

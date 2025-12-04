@@ -46,8 +46,7 @@
               "RelativeToolTip": "BarclayEAssingment07\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T19:29:56.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T19:29:56.967Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "BarclayEAssingment07\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\MainPage.xaml.cs",
               "RelativeToolTip": "BarclayEAssingment07\\MainPage.xaml.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowBoAAADgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAADgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T19:03:15.508Z",
               "EditorCaption": ""
@@ -65,15 +64,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BarclayEAssingment07",
+              "Title": "BarclayEAssingment07.csproj",
               "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\BarclayEAssingment07.csproj",
               "RelativeDocumentMoniker": "BarclayEAssingment07\\BarclayEAssingment07.csproj",
               "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\BarclayEAssingment07Earthquake\\BarclayEAssingment07\\BarclayEAssingment07.csproj",
               "RelativeToolTip": "BarclayEAssingment07\\BarclayEAssingment07.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-02T19:02:30.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T19:02:30.876Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "BarclayEAssingment07\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-02T19:02:53.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T19:02:53.153Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "BarclayEAssingment07\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T19:01:27.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T19:01:27.948Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "BarclayEAssingment07\\Earthquake.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:59:22.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T18:59:22.994Z"
             }
           ]
         }

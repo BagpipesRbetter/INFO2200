@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="M07ParticipationStart.WeatherPage"
+             Title="WeatherPage">
+    <StackLayout>
+        <Label 
+            x:Name="LblCity"
+            Text="City name..."
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="CenterAndExpand"
+            FontSize="Large"
+            />
+        <Label
+            x:Name="LblCurTemp"
+            Text="Current Temp..."
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="CenterAndExpand"
+            FontSize="Large"
+            />
+        <Label
+            x:Name="LblHighTemp"
+            Text="High Temp..."
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="CenterAndExpand"
+            FontSize="Large"            
+            />
+        <Label
+            x:Name="LblLowTemp"
+            Text="Low Temp..."
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="CenterAndExpand"
+            FontSize="Large"            
+            />
+    </StackLayout>
+</ContentPage>
