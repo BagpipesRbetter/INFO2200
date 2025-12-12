@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EvanBarclayFinalProject.MainPage"
+             Title="MainPage">
+    <ScrollView>
+        <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0"
+        VerticalOptions="Center">
+
+            <Label
+            Text="Welcome to Your First Name's Weather App!"
+            HorizontalOptions="Center"
+            HorizontalTextAlignment="Center"
+            FontSize="Title"
+            VerticalOptions="CenterAndExpand"/>
+
+            <Entry x:Name="EntryZipCode"
+               Placeholder="Enter Zip Code"
+               HorizontalTextAlignment="Center"
+               FontSize="Medium"
+               Margin="20"
+               Keyboard="Numeric"
+               VerticalOptions="CenterAndExpand"
+               />
+
+            <Button
+            x:Name="BtnShowTemp"
+            Text="Show Current Temp"
+            VerticalOptions="CenterAndExpand"
+            FontSize="Medium"
+            Padding="30"      
+            Clicked="BtnShowTemp_Clicked"           
+            />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EvanBarclayFinalProject.WeatherPage"
+             Title="Weather">
+    <StackLayout Padding="20" Spacing="10">
+
+        <Label x:Name="LblCity"
+           Text="City Name"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label x:Name="LblCurTemp"
+           Text="Current Temp"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label x:Name="LblHighTemp"
+           Text="High Temp"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label x:Name="LblLowTemp"
+           Text="Low Temp"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label x:Name="LblWindSpeed"
+           Text="Wind Speed"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label x:Name="LblWindDir"
+           Text="Wind Direction"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label x:Name="LblHumidity"
+           Text="Humidity"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label x:Name="LblPressure"
+           Text="Pressure"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label x:Name="LblSunUp"
+           Text="Sunrise"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label x:Name="LblSunset"
+           Text="Sunset"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+    </StackLayout>
+</ContentPage>

@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\",
+  "WorkspaceRootPath": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\11011406\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\evanj\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\11011406\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\evanj\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\11011406\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\11011406\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\11011406\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\m07participationstart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\evanj\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\m07participationstart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\m07participationstart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\11011406\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\evanj\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\evanj\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|c:\\users\\evanj\\documents\\github\\info2200\\m07participationstart\\m07participationstart\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCC6BBE-4175-49AB-B308-C4CFE74F8685}|M07ParticipationStart\\M07ParticipationStart.csproj|solutionrelative:m07participationstart\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\App.xaml.cs",
               "RelativeDocumentMoniker": "M07ParticipationStart\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\App.xaml.cs",
               "RelativeToolTip": "M07ParticipationStart\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +59,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\WeatherPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\WeatherPage.xaml.cs",
               "RelativeDocumentMoniker": "M07ParticipationStart\\WeatherPage.xaml.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\WeatherPage.xaml.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\WeatherPage.xaml.cs",
               "RelativeToolTip": "M07ParticipationStart\\WeatherPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "WeatherPage.xaml",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\WeatherPage.xaml",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\WeatherPage.xaml",
               "RelativeDocumentMoniker": "M07ParticipationStart\\WeatherPage.xaml",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\WeatherPage.xaml",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\WeatherPage.xaml",
               "RelativeToolTip": "M07ParticipationStart\\WeatherPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -77,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "M07ParticipationStart",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj",
+              "DocumentIndex": 2,
+              "Title": "M07ParticipationStart.csproj",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj",
               "RelativeDocumentMoniker": "M07ParticipationStart\\M07ParticipationStart.csproj",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\M07ParticipationStart.csproj",
               "RelativeToolTip": "M07ParticipationStart\\M07ParticipationStart.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -92,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "M07ParticipationStart\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\MainPage.xaml.cs",
               "RelativeToolTip": "M07ParticipationStart\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\MainPage.xaml",
               "RelativeDocumentMoniker": "M07ParticipationStart\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\11011406\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\evanj\\Documents\\GitHub\\INFO2200\\M07ParticipationStart\\M07ParticipationStart\\MainPage.xaml",
               "RelativeToolTip": "M07ParticipationStart\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",

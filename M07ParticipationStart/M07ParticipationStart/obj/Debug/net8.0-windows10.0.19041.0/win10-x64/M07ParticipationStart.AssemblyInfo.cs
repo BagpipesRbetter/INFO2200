@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M07ParticipationStart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0e6c7f68efd1dd82ce6993a74e9e8d4c2e25e9ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ea7b6f84691216e6e8f1afcd31fdc7b9bfb7a15a")]
 [assembly: System.Reflection.AssemblyProductAttribute("M07ParticipationStart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M07ParticipationStart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

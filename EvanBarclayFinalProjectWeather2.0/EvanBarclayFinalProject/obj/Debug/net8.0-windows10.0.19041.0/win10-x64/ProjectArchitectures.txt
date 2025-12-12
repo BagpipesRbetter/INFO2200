@@ -1,0 +1,1 @@
+C:\Users\evanj\Documents\GitHub\INFO2200\EvanBarclayFinalProjectWeather2.0\EvanBarclayFinalProject\EvanBarclayFinalProject.csproj;x64
